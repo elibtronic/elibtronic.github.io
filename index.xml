@@ -6,8 +6,23 @@
     <description>Recent content on Tim Ribaric</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Tim Ribaric</copyright>
-    <lastBuildDate>Sat, 25 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://elibtronic.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Licensed under CC - BY</copyright>
+    <lastBuildDate>Thu, 03 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://elibtronic.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zotero File Sync - OneDrive on a Macbook</title>
+      <link>https://elibtronic.github.io/post/zotero_file_sync/</link>
+      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://elibtronic.github.io/post/zotero_file_sync/</guid>
+      <description>&lt;p&gt;Zotero is my jam. Here&amp;rsquo;s how to sync your saved PDFs and webpages to a OneDrive location on a Mac.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://elibtronic.github.io/post/images/zoltan.png&#34;
+         alt=&#34;Z for Zotero&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Z for Zotero&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;</description>
+    </item>
+    
     <item>
       <title>New Site</title>
       <link>https://elibtronic.github.io/post/new_site/</link>

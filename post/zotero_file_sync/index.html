@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang='en'><head>
-  <title>Open Graph image - Tim Ribaric</title>
-  <link rel='canonical' href='https://elibtronic.github.io/post/define-specific-og-image/' />
+  <title>Zotero File Sync - OneDrive on a Macbook - Tim Ribaric</title>
+  <link rel='canonical' href='https://elibtronic.github.io/post/zotero_file_sync/' />
   
   <meta charset='utf-8'>
   <meta name='viewport' content='width=device-width, initial-scale=1' />
-  <meta name='description' content='Define a specific Open Graph image for a page' />
+  <meta name='description' content='steps to sync Zotero to OneDrive' />
   <meta name='theme-color' content='#FD3519' />
   
 
@@ -20,18 +20,18 @@
 <link rel="stylesheet" href="https://elibtronic.github.io/sass/style.min.cf2eeff825d4dbc673ce0b82d270d9fc32d34973a7d5cd079e0dcf4fe3e77515.css" integrity="sha256-zy7v&#43;CXU28ZzzguC0nDZ/DLTSXOn1c0Hng3PT&#43;PndRU=" media="screen">
 <link rel="stylesheet" href="https://elibtronic.github.io/syntax.min.css" integrity="" media="screen">
 
-  <meta property="og:title" content="Open Graph image" />
-<meta property="og:description" content="Define a specific Open Graph image for a page" />
+  <meta property="og:title" content="Zotero File Sync - OneDrive on a Macbook" />
+<meta property="og:description" content="steps to sync Zotero to OneDrive" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://elibtronic.github.io/post/define-specific-og-image/" />
-<meta property="article:published_time" content="2019-04-20T11:14:59+02:00" />
-<meta property="article:modified_time" content="2019-04-20T11:14:59+02:00" />
+<meta property="og:url" content="https://elibtronic.github.io/post/zotero_file_sync/" />
+<meta property="article:published_time" content="2019-10-03T00:00:00+00:00" />
+<meta property="article:modified_time" content="2019-10-03T00:00:00+00:00" />
 
-  <meta itemprop="name" content="Open Graph image">
-<meta itemprop="description" content="Define a specific Open Graph image for a page">
-<meta itemprop="datePublished" content="2019-04-20T11:14:59+02:00" />
-<meta itemprop="dateModified" content="2019-04-20T11:14:59+02:00" />
-<meta itemprop="wordCount" content="29">
+  <meta itemprop="name" content="Zotero File Sync - OneDrive on a Macbook">
+<meta itemprop="description" content="steps to sync Zotero to OneDrive">
+<meta itemprop="datePublished" content="2019-10-03T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2019-10-03T00:00:00+00:00" />
+<meta itemprop="wordCount" content="502">
 
 
 
@@ -47,7 +47,7 @@
   <div class="intro">
     <div class="logo-container">
       <a href="/">
-        <img src='https://elibtronic.github.io/images/robot_love.jpg' alt="Profile " class="rounded-logo">
+        <img src='https://elibtronic.github.io/images/robot_love.jpg' alt="Profile Designs" class="rounded-logo">
       </a>
     </div>
     <h2>Tim Ribaric</h2>
@@ -135,7 +135,7 @@
 
 
 <span  class="active">
-  <a href="https://elibtronic.github.io/post/define-specific-og-image/">Open Graph image</a>
+  <a href="https://elibtronic.github.io/post/zotero_file_sync/">Zotero File Sync - OneDrive on a Macbook</a>
   
 </span>
 
@@ -144,7 +144,7 @@
     
     <main id="content" class="post">
 
-<h1>Open Graph image</h1>
+<h1>Zotero File Sync - OneDrive on a Macbook</h1>
 <div class="reading-time">
   <div class="icon">
   <svg width="18px" height="18px" viewBox="0 0 115 115" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img">
@@ -154,7 +154,7 @@
   </svg>
 </div>
 
-  <span>1 minutes</span>
+  <span>3 minutes</span>
 </div>
 
 <div class="published-date">
@@ -166,13 +166,94 @@
   </svg>
 </div>
 
-  <span>April 20, 2019</span>
+  <span>October 3, 2019</span>
 </div>
 
-<p>Within any page, you can add in the FrontMatter a images array that will be used to define a specific Open Graph image.</p>
-<p>For example, see <code>content/_index.md</code> page:</p>
-<div class="highlight"><pre class="chroma"><code class="language-YAML" data-lang="YAML"><span class="nt">images</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s2">&#34;/images/sample.jpg&#34;</span><span class="p">]</span><span class="w">
-</span></code></pre></div>
+<p>Zotero is my jam. Here&rsquo;s how to sync your saved PDFs and webpages to a OneDrive location on a Mac.</p>
+<figure>
+    <img src="/post/images/zoltan.png"
+         alt="Z for Zotero"/> <figcaption>
+            <p>Z for Zotero</p>
+        </figcaption>
+</figure>
+
+<p>You get a lot from Zotero out of the box. The combination of the desktop app and the connector makes a pretty mean way to create a dynamic lists of bookmarks with tags etc and to conjure up citations for papers. I also think it is criminal that Zotero isn&rsquo;t more popular than it is. Sure, it is popular, but not popular enough for what it does. We&rsquo;d have the same (if not more) standing with the public if we <strong>just</strong> talked about Zotero.</p>
+<p>My other aim is to write this stuff up clearly and accessible to everyone. I&rsquo;ll avoid jargon as much as possible.</p>
+<figure>
+    <img src="/post/images/zotero_costs.png"
+         alt="Zotero storage options"/> <figcaption>
+            <p>Zotero storage options</p>
+        </figcaption>
+</figure>
+
+<p>We are going to walk through the process of using OneDrive as the storage location for your Zotero files on a Mac. As the above image shows you get 300 MB for free. I get many hundreds of Gigs of storage for One Drive from my institution so why not use that.</p>
+<h2 id="prerequisites">Prerequisites</h2>
+<ul>
+<li>Install the OneDrive client</li>
+<li>Install the Zotero desktop app</li>
+</ul>
+<h2 id="back-up-zotero-database">Back up Zotero Database</h2>
+<p>First create a full backup of your Zotero Database in case anything thing goes sideways. <strong>File &gt; Export Library&hellip;</strong>. Select both options and save it to a good spot.</p>
+<figure>
+    <img src="/post/images/z_export_01.png"
+         alt="Exporting Zotero step 1"/> <figcaption>
+            <p>Exporting Zotero step 1</p>
+        </figcaption>
+</figure>
+
+<figure>
+    <img src="/post/images/z_export_02.png"
+         alt="Exporting Zotero step 2"/> <figcaption>
+            <p>Exporting Zotero step 2</p>
+        </figcaption>
+</figure>
+
+<p>Exit Zotero.</p>
+<h2 id="create-a-backup-of-the-storage-directory">Create a backup of the storage directory</h2>
+<p>By default Zotero installs to <code>~/Zotero</code> in that folder you&rsquo;ll find a another folder called <code>storage</code>. (NB. <code>~</code> is a <a href="https://support.apple.com/lt-lt/guide/terminal/apd3cf6fe02-3ec8-48f1-951f-866e52955fc8/mac">terminal shortcut</a> for your home directory.)</p>
+<p>In that folder rename storage to <strong>storage_bu</strong></p>
+<figure>
+    <img src="/post/images/z_folder_01.png"
+         alt="Zotero folder"/> <figcaption>
+            <p>Zotero folder</p>
+        </figcaption>
+</figure>
+
+<p>Add a new folder called <strong>storage</strong></p>
+<figure>
+    <img src="/post/images/z_folder_02.png"
+         alt="Zotero folder"/> <figcaption>
+            <p>Zotero folder</p>
+        </figcaption>
+</figure>
+
+<h2 id="symbolic-link">Symbolic Link</h2>
+<p>You&rsquo;ll now need to find out where your OneDrive sync folder is. For me that is</p>
+<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">~/<span class="s2">&#34;OneDrive - Brock University&#34;</span>
+</code></pre></div><p>In that location create a new folder for your Zotero files. (You can use Finder for this) I set my up like this</p>
+<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">~/<span class="s2">&#34;OneDrive - Brock University/Zotero_Lib&#34;</span>
+</code></pre></div><p>Now you need to create a <a href="https://en.wikipedia.org/wiki/Symbolic_link">symbolic link</a> from your Zotero storage to that new OneDrive folder. You&rsquo;ll need to use <strong>Terminal</strong> to do this. (Search for it in Spotlight, congrats you just levelled up) Copy and paste the following into your terminal window.</p>
+<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">ls -s ~/<span class="s2">&#34;OneDrive - Brock University/Zotero_Lib&#34;</span> <span class="se">\
+</span><span class="se"></span>~/<span class="s2">&#34;Zotero/Storage&#34;</span>
+</code></pre></div><p>You&rsquo;ll need to modify the path to your OneDrive Folder. Press enter to make the symbolic link.</p>
+<h2 id="copy-files-into-storage-again--wait-for-sync">Copy files into Storage again &amp; wait for sync</h2>
+<p>All the setup is now complete. You just need need to copy all of the folders in <code>~/Zotero/storage_bu</code> to <code>~/Zotero/storage</code>. You can do this with a couple of clicks with Finder. OneDrive will now sync. It might take awhile because there are so many files and folders. About 45 Min for me.</p>
+<p><figure>
+    <img src="/post/images/o_sync_01.png"
+         alt="OneDrive Sync"/> <figcaption>
+            <p>OneDrive Sync</p>
+        </figcaption>
+</figure>
+
+<figure>
+    <img src="/post/images/o_sync_02.png"
+         alt="Blue circles turn green when finished"/> <figcaption>
+            <p>Blue circles turn green when finished</p>
+        </figcaption>
+</figure>
+</p>
+<p>You could easily do this same process for something like Google Drive. Just make your symbolic link point to the correct synced folder in Google Drive.</p>
+<p><strong>- Fin -</strong></p>
 
     </main>
   </div>
