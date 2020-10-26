@@ -4,20 +4,27 @@
   
   <url>
     <loc>https://elibtronic.github.io/</loc>
-    <lastmod>2020-10-23T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://elibtronic.github.io/post/access_2020/</loc>
-    <lastmod>2020-10-23T00:00:00+00:00</lastmod>
+    <loc>https://elibtronic.github.io/post/access_2020_follow_up/</loc>
+    <lastmod>2020-10-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://elibtronic.github.io/post/</loc>
+    <lastmod>2020-10-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://elibtronic.github.io/post/access_2020/</loc>
     <lastmod>2020-10-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
