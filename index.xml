@@ -1,73 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tim Ribaric</title>
-    <link>https://elibtronic.github.io/</link>
-    <description>Recent content on Tim Ribaric</description>
+    <title>Home on elibronic.ca</title>
+    <link>https://elibtronic.ca/</link>
+    <description>Recent content in Home on elibronic.ca</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Licensed under CC - BY</copyright>
-    <lastBuildDate>Mon, 26 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://elibtronic.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Access 2020 Survey Follow up</title>
-      <link>https://elibtronic.github.io/post/access_2020_follow_up/</link>
-      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://elibtronic.github.io/post/access_2020_follow_up/</guid>
-      <description>&lt;figure&gt;
-    &lt;img src=&#34;https://elibtronic.github.io/post/images/access_pie.png&#34;
-         alt=&#34;Surprising Results&#34;/&gt; &lt;figcaption&gt;
-            &lt;p&gt;Surprising Results&lt;/p&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;For my Access conference &lt;a href=&#34;https://elibtronic.github.io/post/access_2020&#34;&gt;presentation&lt;/a&gt; last week I included a survey for attendees to completed while I was speaking. The results of that survey are summarized here.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Access 2020 Presentation Material</title>
-      <link>https://elibtronic.github.io/post/access_2020/</link>
-      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://elibtronic.github.io/post/access_2020/</guid>
-      <description>&lt;p&gt;Access is the greatest ever. Here&amp;rsquo;s my presentation material for Access 2020.&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img src=&#34;https://elibtronic.github.io/post/images/access_2020_slide_cover.png&#34;
-         alt=&#34;World class aesthetics&#34;/&gt; &lt;figcaption&gt;
-            &lt;p&gt;World class aesthetics&lt;/p&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;</description>
-    </item>
-    
-    <item>
-      <title>Zotero File Sync - OneDrive on a Macbook</title>
-      <link>https://elibtronic.github.io/post/zotero_file_sync/</link>
-      <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://elibtronic.github.io/post/zotero_file_sync/</guid>
-      <description>&lt;p&gt;Zotero is my jam. Here&amp;rsquo;s how to sync your saved PDFs and webpages to a OneDrive location on a Mac.&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img src=&#34;https://elibtronic.github.io/post/images/zoltan.png&#34;
-         alt=&#34;Z for Zotero&#34;/&gt; &lt;figcaption&gt;
-            &lt;p&gt;Z for Zotero&lt;/p&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;</description>
-    </item>
-    
-    <item>
-      <title>New Site</title>
-      <link>https://elibtronic.github.io/post/new_site/</link>
-      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://elibtronic.github.io/post/new_site/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve missed having a personal page and blog.&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img src=&#34;https://elibtronic.github.io/post/images/grief_index_sept_2020.png&#34;
-         alt=&#34;The GI&#34;/&gt; &lt;figcaption&gt;
-            &lt;p&gt;The GI&lt;/p&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;</description>
-    </item>
-    
+    <lastBuildDate>Wed, 30 Nov 2022 14:14:05 -0500</lastBuildDate><atom:link href="https://elibtronic.ca/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
