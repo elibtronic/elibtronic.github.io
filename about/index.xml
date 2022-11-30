@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ABOUT on Tim Ribaric</title>
+    <title>About on elibronic.ca</title>
     <link>https://elibtronic.github.io/about/</link>
-    <description>Recent content in ABOUT on Tim Ribaric</description>
+    <description>Recent content in About on elibronic.ca</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Licensed under CC - BY</copyright><atom:link href="https://elibtronic.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Nov 2022 14:14:05 -0500</lastBuildDate><atom:link href="https://elibtronic.github.io/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
